@@ -2,21 +2,19 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #d4397a;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 2.5rem;
   color: white;
+  letter-spacing: 2px;
+  font-family: 'Lobster Two', cursive;
 }
 
-.App-link {
-  color: #09d3ac;
-}
+
+/* font-family: 'Lobster Two', cursive;
+font-family: 'Quattrocento', serif; */
